@@ -10,5 +10,5 @@ Just a simple Project I may continue when I am bored
 
 # Setup
 ...
-$ pip install names
+pip install names
 ...
