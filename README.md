@@ -1,6 +1,6 @@
 # Name generator
-Just a simple Project I may continue when I am bored
-I coded it for those who really need names fast.
+Just a simple Project I may continue when I am bored\n
+I coded it for those who really need names fast.\n
 There will be updates :D
 
 ## Version 1.0:
